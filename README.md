@@ -24,3 +24,5 @@ git remote -v -> Lista repositórios cadastrados
 git push origin master/main -> Empurra repositório local p/ repositório remoto
 git pull origin master/main -> Empurra repositório remoto p/ repositório local
 git clone https: -> Clona repositório (Fork) desejado
+
+teste aula cesar
